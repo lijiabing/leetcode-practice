@@ -29,5 +29,5 @@ mvnw.cmd
 ### 项目相关的忽略规则 ###
 /log/
 /src/test/
-/out/
+/out/**
 
