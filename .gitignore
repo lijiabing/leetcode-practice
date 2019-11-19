@@ -27,12 +27,7 @@ mvnw.cmd
 /build/
 
 ### 项目相关的忽略规则 ###
-/rtdcache/
 /log/
 /src/test/
-/src/main/java/com/zhcs/agv/test/
-/src/main/resources/static/test/
-src/main/resources/wsdl/cc.wsdl
-/doc/
-/invoice/
+/out/
 
